@@ -1,5 +1,4 @@
 
-
 window.addEventListener("load", ()=>{
     const dagur =["Sunnudaginn","Mánudaginn","Þriðjudaginn","Miðvikudaginn","Fimmtudaginn","Föstudaginn","Laugardaginn"];
     const months = ["janúar","febrúar","mars","apríl","maí","júní","júlí","ágúst","september","október","nóvember","desember"];

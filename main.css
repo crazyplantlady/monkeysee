@@ -1,24 +1,18 @@
 * {
-    box-sizing: border-box;
-   
+    box-sizing: border-box;   
 }
 body {
-    background-color: rgba(0,0,0,0.025);
-   
-     
+    background-color: rgba(0,0,0,0.025);     
 }
 #main {
     max-width:90%;
     margin: 0 auto;
-    align-items: center,
-    
+    align-items: center;    
 }
 #card {
     display: flex;
     justify-content: space-around;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;        
 }
 .headline {
     font-size: 60px;
@@ -45,13 +39,10 @@ body {
     justify-content: space-around;
     background-color: #fff;
     align-items: center;
-
 }
-
 .each:hover {
     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
-  }
-  
+  }  
 .each img {
     width: 400px;
     height: 300px;
